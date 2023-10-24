@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Yes!</h1>
+<h1 align="center">👋 Bonjour, je suis Yes !</h1>
 <p align="center">🚀 Développeur passionné par le front-end🌟</p>
 
 ![Header Animation](lien_vers_votre_animation.gif)
@@ -12,7 +12,7 @@
 
 ## 🌟 Projets Récents
 
-- [Nom du Projet 1](lien_vers_le_projet_1) : Une brève description du projet. 📂
+- [Bot-Discord-Serge-le-Mytho](https://github.com/Yesdevjr/Bot-Discord-Serge-le-Mytho) : Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour personnalisé à votre serveur Discord. 📂
 
 
 ## 📫 Contact
