@@ -36,9 +36,7 @@ N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si
 
 
 
-GIF animé :
-![image](https://github.com/Yesdevjr/yesdevjr/assets/132989724/36192fa4-9671-4c39-8d90-de0db8f58328)
-
+![Animation](https://media3.giphy.com/media/R312C3MEVg4SCYAber/giphy.gif?cid=ecf05e47yo7a8qlvg22v7zrhqx7zbhlgyg9f7acckuyt122w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 Merci de visiter mon profil GitHub! 😊
