@@ -36,3 +36,33 @@ GIF animé :
 )
 
 Merci de visiter mon profil GitHub! 😊
+
+
+
+
+const fetch = require('node-fetch');
+const fs = require('fs');
+
+// Emplacement de votre fichier JSON contenant les citations
+const dataFile = 'citations.json';
+
+const generateRandomQuote = async () => {
+  try {
+    // Charger les citations depuis le fichier JSON
+    const data = require(`./${dataFile}`);
+    const randomIndex = Math.floor(Math.random() * data.length);
+    const randomQuote = data[randomIndex];
+
+    // Générer le contenu du README
+    const readmeContent = `# Citation du jour\n\n${randomQuote}`;
+
+    // Écrire le contenu dans un fichier README.md
+    fs.writeFileSync('README.md', readmeContent, 'utf-8');
+    console.log('README généré avec succès.');
+  } catch (error) {
+    console.error('Erreur lors de la génération du README :', error);
+  }
+};
+
+generateRandomQuote();
+
