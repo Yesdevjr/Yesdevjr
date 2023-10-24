@@ -1,49 +1,38 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: #121212; /* Couleur de fond sombre */
-      color: #ffffff; /* Couleur du texte clair */
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      color: #00cc66; /* Couleur du titre */
-    }
-    .section {
-      background-color: #1f1f1f; /* Couleur de fond des sections */
-      padding: 20px;
-      margin: 10px 0;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
-  <h1>👋 Bonjour, je suis [Votre Nom]!</h1>
-  <p>Développeur passionné par [vos domaines d'intérêt].</p>
+# Bienvenue sur mon profil GitHub !
 
-  <div class="section">
-    <h2>🚀 Compétences</h2>
-    <!-- Ajoutez ici vos compétences -->
-  </div>
+## À propos de moi
 
-  <div class="section">
-    <h2>🔨 Projets Récents</h2>
-    <!-- Ajoutez ici vos projets récents -->
-  </div>
+Je suis [Votre nom], un développeur passionné par [vos domaines d'intérêt], basé à [votre emplacement]. J'aime créer des applications web, contribuer à des projets open source et explorer de nouvelles technologies.
 
-  <div class="section">
-    <h2>👨‍💻 Contributions Open Source</h2>
-    <!-- Ajoutez ici vos contributions open source -->
-  </div>
+## Compétences
 
-  <div class="section">
-    <h2>📫 Contact</h2>
-    <!-- Ajoutez ici vos informations de contact -->
-  </div>
+- Langages de programmation : [Liste des langages que vous maîtrisez]
+- Frameworks : [Liste des frameworks que vous utilisez]
+- Outils : [Liste des outils et technologies que vous utilisez]
 
-  <!-- Ajoutez d'autres sections au besoin -->
+## Projets récents
 
-  <p align="center">Merci de visiter mon profil GitHub!</p>
-</body>
-</html>
+- [Nom du projet 1](lien_vers_le_projet_1) : Une brève description du projet.
+- [Nom du projet 2](lien_vers_le_projet_2) : Une brève description du projet.
+
+## Contributions Open Source
+
+- [Nom du projet open source 1](lien_vers_le_projet_1) : Une brève description de votre contribution.
+- [Nom du projet open source 2](lien_vers_le_projet_2) : Une brève description de votre contribution.
+
+## Contact
+
+- [Adresse e-mail](mailto:your@email.com)
+- [LinkedIn](lien_vers_votre_profil_LinkedIn)
+- [Twitter](lien_vers_votre_compte_Twitter)
+
+N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez collaborer sur un projet passionnant !
+
+## Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true)
+
+GIF animé :
+![GIF animé](lien_vers_votre_gif_anime.gif)
+
+Merci de visiter mon profil GitHub !
