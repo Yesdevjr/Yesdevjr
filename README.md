@@ -1,31 +1,24 @@
-<h1 align="center">👋 Bonjour, je suis Yes !</h1>
-<p align="center">🚀 Développeur passionné par le front-end🌟</p>
+<h1 align="center">👋 Hello, I'm Yes!</h1>
+<p align="center">🚀 Passionate Front-End Developer from France 🌟</p>
 
-![Header Animation](lien_vers_votre_animation.gif)
+![Header Animation](link_to_your_animation.gif)
 
-## 🛠️ Compétences
+## 🛠️ Skills
 
-- Langages de programmation : HTML, CSS, JavaScript, MYSQL 💻
-- Frameworks : Bootstrap 🌐
-- Outils : Figma, Adobe XD, Photoshop, WordPress, Webflow 🛠️
+- Programming Languages: HTML, CSS, JavaScript, MYSQL 💻
+- Frameworks: Bootstrap 🌐
+- Tools: Figma, Adobe XD, Photoshop, WordPress, Webflow 🛠️
 
+## 🌟 Recent Projects
 
-## 🌟 Projets Récents
-
-- [Bot-Discord-Serge-le-Mytho](https://github.com/Yesdevjr/Bot-Discord-Serge-le-Mytho) : Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour personnalisé à votre serveur Discord. 📂
-
+- [Bot-Discord-Serge-le-Mytho](https://github.com/Yesdevjr/Bot-Discord-Serge-le-Mytho): Serge le Mytho is a unique Discord bot designed to bring personalized humor to your Discord server. 📂
 
 ## 📫 Contact
 
-Vous pouvez me contacter via les liens suivants :
+You can reach out to me through the following links:
 
-- Portfolio : https://yesjs.myportfolio.com/contact ✉️
+- Portfolio: https://yesjs.myportfolio.com/contact ✉️
 
+Feel free to contact me if you have any questions, suggestions, or if you'd like to collaborate on an exciting project! 🤝
 
-N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez collaborer sur un projet passionnant ! 🤝
-
-
-Merci de visiter mon profil GitHub! 😊
-
-
-
+Thank you for visiting my GitHub profile! 😊
