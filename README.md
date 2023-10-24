@@ -30,13 +30,8 @@ Vous pouvez me contacter via les liens suivants :
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez collaborer sur un projet passionnant ! 🤝
 
 
-
-
-
-
-
-
 ![Animation](https://media3.giphy.com/media/R312C3MEVg4SCYAber/giphy.gif?cid=ecf05e47yo7a8qlvg22v7zrhqx7zbhlgyg9f7acckuyt122w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 
 Merci de visiter mon profil GitHub! 😊
