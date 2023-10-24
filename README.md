@@ -32,6 +32,7 @@ N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true)
 
 GIF animé :
-![GIF animé]([lien_vers_votre_gif_anime.gif](https://media3.giphy.com/media/R312C3MEVg4SCYAber/giphy.gif?cid=ecf05e47yo7a8qlvg22v7zrhqx7zbhlgyg9f7acckuyt122w&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media3.giphy.com/media/R312C3MEVg4SCYAber/giphy.gif?cid=ecf05e47yo7a8qlvg22v7zrhqx7zbhlgyg9f7acckuyt122w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIF animé](![image](https://github.com/Yesdevjr/yesdevjr/assets/132989724/4c9d1df6-5fa0-4315-b1ad-9e81deb1aba4)
+)
 
 Merci de visiter mon profil GitHub! 😊
